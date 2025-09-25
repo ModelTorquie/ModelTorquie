@@ -14,12 +14,31 @@
 
 ---
 
-## 🛠️ Skills & Toolkit
-**Languages** → Python, SQL, C++, Shell Script, JavaScript  
-**ML & GenAI** → Scikit-learn, TensorFlow, HuggingFace, XGBoost, SHAP, LIME, Stats  
-**LLMs & RAG** → OpenAI APIs, LangChain, LangGraph, Prompt Engineering, Qdrant  
-**MLOps & Infra** → FastAPI, MLflow, Docker, Git, PySpark, Databricks, Azure, AWS, Pytest  
-**Data Stack** → Pandas, NumPy, MongoDB, MySQL, Presidio, SpaCy, BeautifulSoup  
+## 🛠️ Skills & Toolkit  
+
+### Languages  
+![Python](https://img.shields.io/badge/Python-3.9-blue?logo=python)  
+![SQL](https://img.shields.io/badge/SQL-Structured--Queries-orange?logo=postgresql)  
+![C++](https://img.shields.io/badge/C++-17-green?logo=cplusplus)  
+![Shell](https://img.shields.io/badge/Shell-Scripting-lightgrey?logo=gnu-bash)  
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow?logo=javascript)  
+
+### ML & GenAI  
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-ML-orange?logo=scikitlearn)  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-DL-orange?logo=tensorflow)  
+![HuggingFace](https://img.shields.io/badge/HuggingFace-Transformers-yellow?logo=huggingface)  
+![XGBoost](https://img.shields.io/badge/XGBoost-GradientBoosting-brightgreen)  
+![LangChain](https://img.shields.io/badge/LangChain-LLMs-blue)  
+![LangGraph](https://img.shields.io/badge/LangGraph-Agents-purple)  
+![VectorDB](https://img.shields.io/badge/Qdrant-VectorDB-red?logo=qdrant)  
+
+### MLOps & Infra  
+![FastAPI](https://img.shields.io/badge/FastAPI-Framework-teal?logo=fastapi)  
+![MLflow](https://img.shields.io/badge/MLflow-MLOps-blue)  
+![Docker](https://img.shields.io/badge/Docker-Containers-blue?logo=docker)  
+![Databricks](https://img.shields.io/badge/Databricks-BigData-red?logo=databricks)  
+![Azure](https://img.shields.io/badge/Azure-Cloud-blue?logo=microsoft-azure)  
+![AWS](https://img.shields.io/badge/AWS-Cloud-orange?logo=amazon-aws)  
 
 ---
 
@@ -67,15 +86,15 @@
 
 ---
 
-## 🎯 Select Personal Projects (for Fun + Learning)
-*(A few side quests that reflect my hacker spirit)*  
+## 🎯 Select Personal Projects  
 - 🖋️ [Handwriting Recognizer (99% acc)](https://github.com/DhavalArya/Handwriting-Recognizer-From-Scratch) — Neural net built **from scratch (no DL libs)**  
 - 🎵 [Neural Music Generator](https://github.com/DhavalArya/Music_generator) — LSTM-based symbolic music composer  
 - 💇 [Face Shape Hairstyle Recommender](https://face-shape-analyzer.netlify.app/) — MERN + ML deployed app (Netlify + AWS S3)  
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats  
+
 ![Dhaval’s GitHub stats](https://github-readme-stats.vercel.app/api?username=DropoutJunkie&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DropoutJunkie&layout=compact&theme=radical)  
 
