@@ -16,29 +16,20 @@
 
 ## 🛠️ Skills & Toolkit  
 
-### Languages  
-![Python](https://img.shields.io/badge/Python-3.9-blue?logo=python)  
-![SQL](https://img.shields.io/badge/SQL-Structured--Queries-orange?logo=postgresql)  
-![C++](https://img.shields.io/badge/C++-17-green?logo=cplusplus)  
-![Shell](https://img.shields.io/badge/Shell-Scripting-lightgrey?logo=gnu-bash)  
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow?logo=javascript)  
+**Languages** → Python, SQL, C++, Shell Script, JavaScript  
+![Python](https://img.shields.io/badge/Python-blue?logo=python) ![SQL](https://img.shields.io/badge/SQL-orange?logo=postgresql) ![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus) ![Shell](https://img.shields.io/badge/Shell_Script-lightgrey?logo=gnu-bash) ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript)
 
-### ML & GenAI  
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-ML-orange?logo=scikitlearn)  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-DL-orange?logo=tensorflow)  
-![HuggingFace](https://img.shields.io/badge/HuggingFace-Transformers-yellow?logo=huggingface)  
-![XGBoost](https://img.shields.io/badge/XGBoost-GradientBoosting-brightgreen)  
-![LangChain](https://img.shields.io/badge/LangChain-LLMs-blue)  
-![LangGraph](https://img.shields.io/badge/LangGraph-Agents-purple)  
-![VectorDB](https://img.shields.io/badge/Qdrant-VectorDB-red?logo=qdrant)  
+**ML & GenAI** → Scikit-learn, TensorFlow, HuggingFace, XGBoost, SHAP, LIME, Statistics  
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-orange?logo=scikitlearn) ![TensorFlow](https://img.shields.io/badge/TensorFlow-orange?logo=tensorflow) ![HuggingFace](https://img.shields.io/badge/HuggingFace-yellow?logo=huggingface) ![XGBoost](https://img.shields.io/badge/XGBoost-green)
 
-### MLOps & Infra  
-![FastAPI](https://img.shields.io/badge/FastAPI-Framework-teal?logo=fastapi)  
-![MLflow](https://img.shields.io/badge/MLflow-MLOps-blue)  
-![Docker](https://img.shields.io/badge/Docker-Containers-blue?logo=docker)  
-![Databricks](https://img.shields.io/badge/Databricks-BigData-red?logo=databricks)  
-![Azure](https://img.shields.io/badge/Azure-Cloud-blue?logo=microsoft-azure)  
-![AWS](https://img.shields.io/badge/AWS-Cloud-orange?logo=amazon-aws)  
+**LLMs & RAG** → OpenAI APIs, LangChain, LangGraph, Prompt Engineering, Qdrant  
+![LangChain](https://img.shields.io/badge/LangChain-blue) ![LangGraph](https://img.shields.io/badge/LangGraph-purple) ![Qdrant](https://img.shields.io/badge/Qdrant-red?logo=qdrant) ![OpenAI](https://img.shields.io/badge/OpenAI-API-black?logo=openai)
+
+**MLOps & Infra** → FastAPI, MLflow, Docker, Git, PySpark, Databricks, Azure, AWS, Pytest  
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi) ![MLflow](https://img.shields.io/badge/MLflow-0176D2) ![Docker](https://img.shields.io/badge/Docker-blue?logo=docker) ![Git](https://img.shields.io/badge/Git-orange?logo=git) ![PySpark](https://img.shields.io/badge/PySpark-red?logo=apachespark) ![Databricks](https://img.shields.io/badge/Databricks-red?logo=databricks) ![Azure](https://img.shields.io/badge/Azure-blue?logo=microsoft-azure) ![AWS](https://img.shields.io/badge/AWS-orange?logo=amazon-aws)
+
+**Data Stack** → Pandas, NumPy, MongoDB, MySQL, Presidio, SpaCy, BeautifulSoup  
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas) ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy) ![MongoDB](https://img.shields.io/badge/MongoDB-green?logo=mongodb) ![MySQL](https://img.shields.io/badge/MySQL-blue?logo=mysql) ![SpaCy](https://img.shields.io/badge/SpaCy-lightblue) ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-yellowgreen)
 
 ---
 
