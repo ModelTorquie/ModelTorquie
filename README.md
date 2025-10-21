@@ -1,15 +1,14 @@
-# 👋 Hey, I’m Dhaval Arya (aka DropoutJunkie)
+# 👋 Hey, I’m Dhaval Arya (aka ModelWhisperer)
 
-📍 Data Scientist / Machine Learning Engineer @ [GEP](https://www.gep.com) | Mumbai, India  
-🤖 Specializing in **ML, MLOps, LLM systems, and Applied AI at scale**  
-⚡ Automating pipelines, building RAG systems, designing frameworks, and occasionally breaking prod (only to come back with a better patch 😅)
+📍 **Data Scientist / Machine Learning Engineer @ [GEP](https://www.gep.com)** | Mumbai, India  
+🤖 I specialize in **LLMs, MLOps, and Applied AI Systems** — designing frameworks, fine-tuning models, optimizing pipelines, and occasionally breaking prod (only to come back with a better patch 😅)
 
 ---
 
 ## ⚡ Quick Highlights
-- 🎓 B.E. Computer Science (Data Science specialization) | GPA: 9.5/10 (Top 1%)  
-- 🏆 Kudos Achiever Award • Change Agent Award • GEP Hackathon Winner (1st)  
-- 📈 Meta Hacker Cup (416 India rank) • Google Kickstart (862 India rank) • LeetCode Knight (Top 4%)  
+- 🎓 **B.E. Computer Science (Data Science specialization)** | GPA: 9.5/10 (Top 1%)  
+- 🏆 **Innovator Award • Achiever Award • Change Agent Award • GEP Hackathon Winner (1st)**  
+- 📈 **Meta Hacker Cup (416 India rank)** • **Google Kickstart (862 India rank)** • **LeetCode Knight (Top 4%)**  
 - ☕ Motto: *If it can be automated → I’ll automate it. If it can be optimized → I’ll obsess over it.*
 
 ---
@@ -35,59 +34,61 @@
 
 ## 🔥 Highlighted Work @ GEP
 
-### 🔹 Minerva Studio — *Low-Code AutoML Platform*
-- Automated **85% of manual ML training effort** with FastAPI + MLflow + Docker  
-- Feature selection via ANOVA, Chi-square, MI; auto column type detection  
-- Async APIs for training/inference, full MLOps tracking, 93% unit test coverage  
+### 🔹 LLM Fine-Tuning Framework — *ICM Summary Evaluation*
+- Developed an **end-to-end fine-tuning pipeline** for evaluating ICM document executive summaries
+- Built using **QLoRA** with **adapter merging**, **AWQ/GPTQ quantization**, and automated evaluation  
+- Implemented dynamic **token chunking**, model alignment evaluation, and JSON-based scoring  
+- Modularized into stages: *data → labeling → fine-tune → merge → quantize → deploy-ready model*
 
 ---
 
-### 🔹 VectorDB API Framework — *Backbone for RAG*
-- Built a **Qdrant-based API suite** adopted org-wide; powers all latest chatbot solutions  
-- Supports **10k+ calls/min**, hybrid retrieval (MMR, RRF, PRF), batch ops with polling/callbacks  
-- Backup & restore on Azure, lazy loading, concurrency-safe, fully configurable  
+### 🔹 VectorDB API Framework — *Backbone for RAG Systems*
+- Built a **Qdrant-based retrieval API** adopted org-wide for all chatbot solutions  
+- Handles **10k+ calls/min**, supports hybrid retrieval (MMR, RRF, PRF), and batch-safe concurrency  
+- Features backup/restore on Azure, lazy loading, and full configuration via YAML
 
 ---
 
 ### 🔹 LLM Logging & Evaluation Framework
-- Centralized framework handling **100k+ LLM logs/hour** with async + buffered logging  
-- DeepEval-based evaluation, per-handler configs, concurrency-safe shutdowns  
-- Plug-and-play decorators for 1-line integration across projects  
+- Centralized logging for **100k+ LLM logs/hour** using async + buffered architecture  
+- Integrated **DeepEval** for automated model scoring and consistency metrics  
+- Plug-and-play decorators for **1-line integration** in any LangChain/FastAPI pipeline  
 
 ---
 
-### 🔹 Assist Ticket Classification & Spam Detection
-- Built multilingual hybrid ML system → **$8M+ revenue impact**  
-- Hierarchical label classifier + ensemble ML (LR + Bagging + Boosting)  
-- Regex prefilter + async APIs + LLM fallback → 28% precision boost  
+### 🔹 Minerva Studio — *Low-Code AutoML Platform*
+- Automated **85% of manual ML effort** via FastAPI + MLflow + Docker  
+- Integrated automated feature selection (ANOVA, Chi-square, MI)  
+- Delivered full MLOps tracking with **93% unit test coverage**
 
 ---
 
 ### 🔹 RAG Chatbots
-- Delivered **4 RAG bots** for enterprise knowledge retrieval (100k+ documents)  
-- Precision@3 boosted by 32% with rerankers, PRF, RRF, MMR  
-- Daily ingestion pipeline → latency reduced by 25%, 3k+ users, 3k+ org-hours saved weekly  
+- Delivered **4 production-grade RAG chatbots** for knowledge retrieval (100k+ docs)  
+- Boosted Precision@3 by 32% with rerankers, PRF, and RRF fusion  
+- Reduced latency by 25% through optimized ingestion and caching pipelines  
 
 ---
 
-### 🔹 Text-to-SQL Chatbot
-- Improved NL → SQL accuracy from **30% → 85%** with self-reflection loops + DAG validation  
-- Reduced invalid queries by 60% with dual-query design & type inference  
-- Conversation-aware (LangGraph agent) with session TTL & retry support  
+### 🔹 Assist Ticket Classification & Spam Detection
+- Built multilingual hybrid ML system with **$8M+ revenue impact**  
+- Hierarchical label classifier + ensemble ML (LR + Bagging + Boosting)  
+- Regex + async APIs + LLM fallback improved precision by **28%**
 
 ---
 
 ## 🎯 Select Personal Projects  
-- 🖋️ [Handwriting Recognizer (99% acc)](https://github.com/DhavalArya/Handwriting-Recognizer-From-Scratch) — Neural net built **from scratch (no DL libs)**  
+- 🧠 [QLoRA Fine-Tuning Pipeline](https://github.com/<your-repo>) — Modular repo for adapter training, merging, and quantization  
+- 🖋️ [Handwriting Recognizer (99% acc)](https://github.com/DhavalArya/Handwriting-Recognizer-From-Scratch) — Neural net from scratch (no DL libs)  
 - 🎵 [Neural Music Generator](https://github.com/DhavalArya/Music_generator) — LSTM-based symbolic music composer  
-- 💇 [Face Shape Hairstyle Recommender](https://face-shape-analyzer.netlify.app/) — MERN + ML deployed app (Netlify + AWS S3)  
+- 💇 [Face Shape Hairstyle Recommender](https://face-shape-analyzer.netlify.app/) — MERN + ML deployed app  
 
 ---
 
 ## 📊 GitHub Stats  
 
-![Dhaval’s GitHub stats](https://github-readme-stats.vercel.app/api?username=DropoutJunkie&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DropoutJunkie&layout=compact&theme=radical)  
+![Dhaval’s GitHub stats](https://github-readme-stats.vercel.app/api?username=ModelWhisperer&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ModelWhisperer&layout=compact&theme=radical)
 
 ---
 
@@ -97,4 +98,5 @@
 - ✉️ arya.dhavalv@gmail.com  
 
 ---
-⚡ Fun fact: My username is **DropoutJunkie** → because in deep learning, dropouts prevent overfitting; in real life, they keep you curious 😉
+
+⚡ Fun fact: My username is **ModelWhisperer** → because I make models listen, reason, and improve — one fine-tune at a time 😉
