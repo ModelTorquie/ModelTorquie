@@ -78,7 +78,7 @@
 ---
 
 ## 🎯 Select Personal Projects  
-- 🧠 [QLoRA Fine-Tuning Pipeline](https://github.com/<your-repo>) — Modular repo for adapter training, merging, and quantization  
+- 🧠 [QLoRA Fine-Tuning Pipeline](https://github.com/DhavalArya/LLM-Finetuning) — Modular repo for adapter training, merging, and quantization  
 - 🖋️ [Handwriting Recognizer (99% acc)](https://github.com/DhavalArya/Handwriting-Recognizer-From-Scratch) — Neural net from scratch (no DL libs)  
 - 🎵 [Neural Music Generator](https://github.com/DhavalArya/Music_generator) — LSTM-based symbolic music composer  
 - 💇 [Face Shape Hairstyle Recommender](https://face-shape-analyzer.netlify.app/) — MERN + ML deployed app  
