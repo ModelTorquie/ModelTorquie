@@ -1,4 +1,4 @@
-# 👋 Hey, I’m Dhaval Arya (aka ModelWhisperer)
+# 👋 Hey, I’m Dhaval Arya (aka ModelTorquie)
 
 📍 **Data Scientist / Machine Learning Engineer @ [GEP](https://www.gep.com)** | Mumbai, India  
 🤖 I specialize in **LLMs, MLOps, and Applied AI Systems** — designing frameworks, fine-tuning models, optimizing pipelines, and occasionally breaking prod (only to come back with a better patch 😅)
@@ -87,8 +87,8 @@
 
 ## 📊 GitHub Stats  
 
-![Dhaval’s GitHub stats](https://github-readme-stats.vercel.app/api?username=ModelWhisperer&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ModelWhisperer&layout=compact&theme=radical)
+![Dhaval’s GitHub stats](https://github-readme-stats.vercel.app/api?username=ModelTorquie&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ModelTorquie&layout=compact&theme=radical)
 
 ---
 
@@ -99,4 +99,4 @@
 
 ---
 
-⚡ Fun fact: My username is **ModelWhisperer** → because I make models listen, reason, and improve — one fine-tune at a time 😉
+⚡ Fun fact: My username is **ModelTorquie**🏎️ → because I don’t just build models 💹 — I tune them till they purr 😸😉
